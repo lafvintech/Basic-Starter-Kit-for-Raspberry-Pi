@@ -1,4 +1,4 @@
-LAFVIN Super Starter Kit for Raspberry Pi
+LAFVIN Basic Starter Kit for Raspberry Pi
 ===========================================
 
 

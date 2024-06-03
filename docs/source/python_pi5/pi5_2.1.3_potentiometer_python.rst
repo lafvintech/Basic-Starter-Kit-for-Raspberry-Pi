@@ -52,7 +52,7 @@ Experimental Procedures
 
 .. code-block::
 
-    cd ~/super-starter-kit-for-raspberry-pi/python-pi5/python-pi5
+    cd ~/Basic-Starter-Kit-for-Raspberry-Pi/python-pi5/python-pi5
 
 **Step 3:** Run.
 
@@ -71,7 +71,7 @@ of LED will change accordingly.
 
 .. note::
 
-    You can **Modify/Reset/Copy/Run/Stop** the code below. But before that, you need to go to  source code path like ``super-starter-kit-for-raspberry-pi/python-pi5/python-pi5``. After modifying the code, you can run it directly to see the effect.
+    You can **Modify/Reset/Copy/Run/Stop** the code below. But before that, you need to go to  source code path like ``Basic-Starter-Kit-for-Raspberry-Pi/python-pi5/python-pi5``. After modifying the code, you can run it directly to see the effect.
 
 .. raw:: html
 

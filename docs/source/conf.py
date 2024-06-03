@@ -10,7 +10,7 @@
 from pygments.lexers import Python3Lexer
 import time
 
-project = 'Super Starter Kit'
+project = 'Basic Starter Kit'
 copyright = '2024, LAFVIN'
 author = 'LAFVIN'
 

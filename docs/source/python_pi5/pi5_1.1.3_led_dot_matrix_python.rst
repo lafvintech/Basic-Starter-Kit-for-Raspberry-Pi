@@ -98,16 +98,13 @@ T-Cobbler to holes on the two sides of the board, then hook up pin16 and
 .. note::
    In the Fritzing image above, the side with label is at the bottom.
 
-.. image:: ../python_pi5/img/connect/1.1.3_LedMatrix_circuit_1.png
-   :width: 800
 
 **Step 2:** Connect pin 11 of the two 74HC595 together, and then to
 GPIO27; then pin 12 of the two chips, and to GPIO18; next, pin 14 of the
 74HC595 on the left side to GPIO17 and pin 9 to pin 14 of the second
 74HC595.
 
-.. image:: ../python_pi5/img/connect/1.1.3_LedMatrix_circuit_2.png
-   :width: 800
+
 
 **Step 3:** The 74HC595 on the right side is to control columns of the
 LED dot matrix. See the table below for the mapping. Therefore, Q0-Q7
@@ -120,8 +117,7 @@ respectively.
 | **LED Dot Matrix** | **13** | **3**  | **4**  | **10** | **6**  | **11** | **15** | **16** |
 +--------------------+--------+--------+--------+--------+--------+--------+--------+--------+
 
-.. image:: ../python_pi5/img/connect/1.1.3_LedMatrix_circuit_3.png
-   :width: 800
+
 
 **Step 4:** Now connect the ROWs of the LED dot matrix. The 74HC595 on
 the left controls ROW of the LED dot matrix. See the table below for the
@@ -134,8 +130,6 @@ pin 9, 14, 8, 12, 1, 7, 2, and 5 respectively.
 | **LED Dot Matrix** | **9**  | **14** | **8**  | **12** | **1**  | **7**  | **2**  | **5**  |
 +--------------------+--------+--------+--------+--------+--------+--------+--------+--------+
 
-.. image:: ../python_pi5/img/connect/1.1.3_LedMatrix_circuit_4.png
-   :width: 800
    
 
 **Step 5:** Open the code file.
@@ -146,7 +140,7 @@ pin 9, 14, 8, 12, 1, 7, 2, and 5 respectively.
 
 .. code-block::
 
-    cd ~/super-starter-kit-for-raspberry-pi/python-pi5
+    cd ~/Basic-Starter-Kit-for-Raspberry-Pi/python-pi5
 
 
 **Step 6:** Run.
@@ -165,7 +159,7 @@ After the code runs, the LED dot matrix lights up and out row by row and column 
 
 .. note::
 
-    You can **Modify/Reset/Copy/Run/Stop** the code below. But before that, you need to go to  source code path like ``super-starter-kit-for-raspberry-pi/python-pi5``. After modifying the code, you can run it directly to see the effect.
+    You can **Modify/Reset/Copy/Run/Stop** the code below. But before that, you need to go to  source code path like ``Basic-Starter-Kit-for-Raspberry-Pi/python-pi5``. After modifying the code, you can run it directly to see the effect.
 
 .. raw:: html
 
