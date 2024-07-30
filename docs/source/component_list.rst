@@ -1,5 +1,7 @@
 Component List
 ============================
 
-.. toctree::
-    :maxdepth: 1
+.. image:: ./img/list/Basic_List.jpg
+    :width: 1200
+    :align: center
+
