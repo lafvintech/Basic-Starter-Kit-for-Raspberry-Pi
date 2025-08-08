@@ -19,6 +19,6 @@ Clone the repository from GitHub.
 
 .. code-block:: shell
 
-   git clone https://github.com/lafvintech/super-starter-kit-for-raspberry-pi.git
+   git clone https://github.com/lafvintech/Basic-Starter-Kit-for-Raspberry-Pi.git
 
 

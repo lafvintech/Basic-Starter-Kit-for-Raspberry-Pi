@@ -1,7 +1,7 @@
 About This Kit
 ===============
 
-Welcome to the **Super Starter Kit for Raspberry Pi** - your comprehensive gateway to the exciting world of electronics, programming, and innovation! This carefully crafted learning platform is designed for beginners, students, educators, and anyone curious about bringing ideas to life through technology.
+Welcome to the **Basic Starter Kit for Raspberry Pi** - your comprehensive gateway to the exciting world of electronics, programming, and innovation! This carefully crafted learning platform is designed for beginners, students, educators, and anyone curious about bringing ideas to life through technology.
 
 🎯 **What Makes This Kit Special?**
 
