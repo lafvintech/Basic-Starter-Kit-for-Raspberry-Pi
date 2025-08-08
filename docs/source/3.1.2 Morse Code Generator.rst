@@ -51,7 +51,7 @@ Go to the code folder compile and run.
 
 .. code-block:: shell
 
-   cd ~/super-starter-kit-for-raspberry-pi/c/3.1.2/
+   cd ~/Basic-Starter-Kit-for-Raspberry-Pi/c/3.1.2/
 
 .. code-block:: shell
 
@@ -70,7 +70,7 @@ For Python Language User
 
 .. code-block:: shell
 
-   cd ~/super-starter-kit-for-raspberry-pi/Python/
+   cd ~/Basic-Starter-Kit-for-Raspberry-Pi/Python/
 
 .. code-block:: shell
 

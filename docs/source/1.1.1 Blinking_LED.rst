@@ -92,7 +92,7 @@ First, you need to tell your Raspberry Pi where to find the C code file. You do 
 
 .. code-block:: shell
 
-   cd ~/super-starter-kit-for-raspberry-pi/c/1.1.1/
+   cd ~/Basic-starter-kit-for-raspberry-pi/c/1.1.1/
 
 .. image:: ./img/cd-dir.png
 
@@ -150,7 +150,7 @@ For Python Languag
 
 .. code-block:: shell
 
-   cd ~/super-starter-kit-for-raspberry-pi/python/1.1.1/
+   cd ~/Basic-starter-kit-for-raspberry-pi/python/1.1.1/
 
 **Run**
 

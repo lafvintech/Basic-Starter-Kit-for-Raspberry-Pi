@@ -1,4 +1,4 @@
-Super Starter Kit for Raspberry Pi
+Basic Starter Kit for Raspberry Pi
 ===========================================
 
 
