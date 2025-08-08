@@ -1,7 +1,7 @@
 Component List
 ============================
 
-.. image:: img/cnp_List.jpg
+.. image:: img/list/Basic_List.jpg
     :align: center
     :width: 1200
 
